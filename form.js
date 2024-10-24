@@ -4,8 +4,7 @@ import { getDatabase, ref, set } from "https://www.gstatic.com/firebasejs/10.14.
 
 // Firebase configuration
 const firebaseConfig = { 
-    apiKey: "AIzaSyAdYqEKabIlm02vRfVOuBJYJF0PKCpavkQ",
-    authDomain: "sportsday-c7a16.firebaseapp.com",
+        authDomain: "sportsday-c7a16.firebaseapp.com",
     databaseURL: "https://sportsday-c7a16-default-rtdb.firebaseio.com",
     projectId: "sportsday-c7a16",
     storageBucket: "sportsday-c7a16.appspot.com",
